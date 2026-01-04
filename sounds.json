@@ -128,7 +128,7 @@
         },
         {
             "id": "test",
-            "name": "Others",
+            "name": "test",
             "sounds": [
                 {
                     "id": "test_1",
@@ -146,4 +146,5 @@
         }
     ]
 }
+
 
