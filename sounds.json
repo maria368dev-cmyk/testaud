@@ -115,13 +115,13 @@
                 {
                     "id": "other_1",
                     "name": "car engine start",
-                    "url": "https://archive.org/details/futuristic-transition/mixkit-car-engine-start-1566.wav",
+                    "url": "https://archive.org/download/futuristic-transition/mixkit-car-engine-start-1566.wav",
                     "type": "Plug"
                 },
-				 {
+                {
                     "id": "other_2",
                     "name": "cool impact movie trailer",
-                    "url": "https://archive.org/details/futuristic-transition/mixkit-cool-impact-movie-trailer-2909+(1).wav",
+                    "url": "https://archive.org/download/futuristic-transition/mixkit-cool-impact-movie-trailer-2909+(1).wav",
                     "type": "Plug"
                 }
             ]
